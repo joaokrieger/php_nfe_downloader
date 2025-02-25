@@ -1,0 +1,10 @@
+storage/certificado/*
+storage/nfe/raw/*
+storage/nfe/processed/*
+
+!storage/certificado/.gitkeep
+!storage/nfe/raw/.gitkeep
+!storage/nfe/processed/.gitkeep
+
+composer.phar
+/vendor/
